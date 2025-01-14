@@ -16,9 +16,9 @@ def generate_ipv4_addresses(start_ip, end_ip):
     return ip_list
 
 # Example usage:
-start_ip_address = "192.168.0.1"
-end_ip_address = "192.168.0.10"
+#start_ip_address = "192.168.0.1"
+#end_ip_address = "192.168.0.10"
 
-result = generate_ipv4_addresses(start_ip_address, end_ip_address)
-for ip in result:
-    print(ip)
+#result = generate_ipv4_addresses(start_ip_address, end_ip_address)
+#for ip in result:
+    #print(ip)
